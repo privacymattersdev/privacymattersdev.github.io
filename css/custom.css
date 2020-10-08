@@ -1,0 +1,70 @@
+div
+{
+  cursor: pointer;
+}
+
+body, a
+{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: #0065bd;
+}
+
+mark
+{
+  background-color: #ffffba;
+  color: #0065bd;
+}
+
+h4
+{
+  font-weight: 900;
+  font-size: 26px;
+  color: #0065bd;
+}
+
+h6
+{
+  font-size: 16px;
+  font-weight: 900;
+}
+
+h7
+{
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.card
+{
+  border-color: #fe5200;
+}
+
+.textLink:hover
+{
+  color: #fe5200;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.buttonLink
+{
+  color: white;
+}
+
+.embed-responsive
+{
+  height: 50px;
+  padding: 0;
+  overflow: hidden;
+}
+
+#Governance, #Hacking, #BigData, #SbD, #Legislation, #Surveillance, #PbD
+{
+  background-color: #ffffff;
+}
+
+#Footer, #Top
+{
+  background-color: #ffffff;
+}
