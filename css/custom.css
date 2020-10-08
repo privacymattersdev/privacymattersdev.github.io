@@ -6,7 +6,7 @@ div
 body, a
 {
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   color: #0065bd;
 }
 
@@ -19,13 +19,13 @@ mark
 h4
 {
   font-weight: 900;
-  font-size: 26px;
+  font-size: 24px;
   color: #0065bd;
 }
 
 h6
 {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 900;
 }
 
