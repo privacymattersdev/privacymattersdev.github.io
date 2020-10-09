@@ -29,13 +29,6 @@ h6
   font-weight: 900;
 }
 
-h7
-{
-  font-size: 12px;
-  font-weight: 900;
-  color: #0065bd;
-}
-
 .card
 {
   border-color: #fe5200;
@@ -63,10 +56,6 @@ h7
   font-weight: bold;
 }
 
-.greyback
-{
-  background-color: #f7f7f7;
-}
 .embed-responsive
 {
   height: 50px;
