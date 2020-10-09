@@ -61,6 +61,12 @@ h6
   background-color: #ffffff;
 }
 
+.grey
+{
+  border-color: #f7f7f7;
+  background-color: #f7f7f7;
+}
+
 .embed-responsive
 {
   height: 50px;
