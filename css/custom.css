@@ -67,6 +67,7 @@ h7
 .btn-info-sm
 {
   width: 75px;
+  border-color: #fe5200;
   font-size: 12px;
   font-weight: bold;
 }
