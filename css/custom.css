@@ -50,6 +50,7 @@ h6
 {
   width: 80px;
   font-size: 12px;
+  border-radius: 5px;
   box-shadow: : none;
   color: #0065bd;
 }
@@ -57,7 +58,6 @@ h6
 .orange
 {
   border-color: #fe5200;
-  border-radius: 5px;
   background-color: #ffffff;
 }
 
