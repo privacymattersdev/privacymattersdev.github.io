@@ -53,26 +53,25 @@ h7
   color: white;
 }
 
-.bruins
+.btn-info
 {
+  width: 75px;
   border: none;
   border-color: none;
   border-width: thick;
   border-radius: 0px;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: bold;
+}
+
+.bruins
+{
   background-color: #ffb325;
   color: #005c8e;
 }
 
 .lastate
 {
-  border: none;
-  border-color: none;
-  border-width: thick;
-  border-radius: 0px;
-  font-size: 11px;
-  font-weight: bold;
   background-color: #461d7c;
   color: #fdd023;
 }
