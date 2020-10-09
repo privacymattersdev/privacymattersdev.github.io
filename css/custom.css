@@ -64,6 +64,13 @@ h7
   font-weight: bold;
 }
 
+.btn-info-sm
+{
+  width: 75px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
 .bruins
 {
   background-color: #ffb325;
