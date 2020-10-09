@@ -53,37 +53,20 @@ h7
   color: white;
 }
 
-.btn-info
-{
-  width: 75px;
-  border: none;
-  border-color: none;
-  border-width: thick;
-  border-radius: 0px;
-  font-size: 12px;
-  font-weight: bold;
-}
-
 .btn-info-sm
 {
   width: 75px;
   border-color: #fe5200;
+  border-radius: 5px;
+  color: #0065bd;
   font-size: 12px;
   font-weight: bold;
 }
 
-.bruins
+.greyback
 {
-  background-color: #ffb325;
-  color: #005c8e;
+  background-color: #f7f7f7;
 }
-
-.lastate
-{
-  background-color: #461d7c;
-  color: #fdd023;
-}
-
 .embed-responsive
 {
   height: 50px;
