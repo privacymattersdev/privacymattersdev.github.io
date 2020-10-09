@@ -57,11 +57,13 @@ h6
 .orange
 {
   border-color: #fe5200;
+  background-color: #ffffff;
 }
 
 .grey
 {
   border-color: #f7f7f7;
+  background-color: #ffffff;
   border-width: thick;
 }
 
