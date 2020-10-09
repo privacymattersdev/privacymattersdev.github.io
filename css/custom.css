@@ -46,15 +46,14 @@ h6
   color: white;
 }
 
-.btn-outline
+.btn-info-sm
 {
-  width: 80px;
+  width: 75px;
   border-color: #fe5200;
   border-radius: 5px;
-  background-color: #ffffff;
   color: #0065bd;
   font-size: 12px;
-  text-decoration: none;
+  font-weight: bold;
 }
 
 .embed-responsive
