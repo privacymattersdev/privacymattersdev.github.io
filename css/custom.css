@@ -48,12 +48,11 @@ h6
 
 .btn-info-sm
 {
-  width: 75px;
+  width: 80px;
   border-color: #fe5200;
   border-radius: 5px;
   color: #0065bd;
   font-size: 12px;
-  font-weight: bold;
 }
 
 .embed-responsive
