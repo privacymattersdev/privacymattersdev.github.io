@@ -46,25 +46,23 @@ h6
   color: white;
 }
 
-.btn-info-sm
+.btn-outline
 {
   width: 80px;
   font-size: 12px;
   border-radius: 5px;
-  box-shadow: : none;
   color: #0065bd;
 }
 
 .orange
 {
   border-color: #fe5200;
-  background-color: #ffffff;
 }
 
 .grey
 {
   border-color: #f7f7f7;
-  background-color: #f7f7f7;
+  border-width: thick;
 }
 
 .embed-responsive
