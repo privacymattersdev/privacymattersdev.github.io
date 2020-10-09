@@ -49,11 +49,15 @@ h6
 .btn-info-sm
 {
   width: 80px;
+  font-size: 12px;
+}
+
+.orange
+{
   border-color: #fe5200;
   border-radius: 5px;
   background-color: #ffffff;
   color: #0065bd;
-  font-size: 12px;
 }
 
 .embed-responsive
