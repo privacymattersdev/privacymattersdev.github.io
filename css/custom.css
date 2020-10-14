@@ -6,21 +6,20 @@ div
 body, a
 {
   font-family: 'Raleway', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 500;
   color: #0065bd;
 }
 
 h4
 {
+  font-size: 21px;
   font-weight: 900;
-  font-size: 20px;
-  color: #0065bd;
 }
 
 h6
 {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
 }
 
