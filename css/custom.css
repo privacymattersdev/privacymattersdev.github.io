@@ -11,12 +11,6 @@ body, a
   color: #0065bd;
 }
 
-mark
-{
-  background-color: #ffffba;
-  color: #0065bd;
-}
-
 h4
 {
   font-weight: 900;
@@ -26,8 +20,14 @@ h4
 
 h6
 {
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 500;
+}
+
+mark
+{
+  background-color: #ffffba;
+  color: #0065bd;
 }
 
 .card
@@ -50,11 +50,17 @@ h6
 .btn-outline
 {
   width: 90px;
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 500;
   border-style: solid;
   border-radius: 5px;
   color: #0065bd;
+}
+
+date
+{
+  font-size: 10px;
+  font-weight: 900;
 }
 
 .orange
